@@ -1,0 +1,19 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.2",
+    "graphiql": "^0.9.3",
+    "graphql": "^0.9.1",
+    "restler": "latest",
+    "express-graphql": "latest"
+  }
+}
